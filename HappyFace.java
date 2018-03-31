@@ -3,7 +3,7 @@ import java.util.*;
 import processing.core.*;
 public class HappyFace extends PApplet {
 
-	private String url="E:\\HKMOTOG2\\photos\\beautiful-beaches-at-sunset-images-6.jpg";
+	private String url="https://github.com/bhaskar164/HAPPYFACE/blob/master/img/codes-coding-computer-247791.jpg?raw=true.jpg";
 	private PImage bkimg;
 	public static void main(String[] args) {
 		PApplet.main("HappyFace");
